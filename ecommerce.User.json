@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "665f3120f683bec58ffb189c"
+  },
+  "name": "John Doe",
+  "email": "john@example.com",
+  "telephone": "+1 123-456-7890",
+  "password": "hashed_password_here",
+  "address": "123 Main St, City",
+  "history": [],
+  "cart": []
+}]
