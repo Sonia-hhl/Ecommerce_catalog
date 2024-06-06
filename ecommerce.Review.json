@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6661fc67e86ebb8209cdcdf6"
+  },
+  "product": "product_id_123",
+  "writer": "user_id_456",
+  "date": {
+    "$date": "2024-06-06T00:00:00.000Z"
+  },
+  "rating": 4,
+  "title": "Great Product!",
+  "text": "This product is great! High quality and reasonable price.",
+  "verified_purchase": true,
+  "helpful_count": 10,
+  "comments": [
+    {
+      "commenter": "user_id_789",
+      "text": "I agree with you!",
+      "date": {
+        "$date": "2024-06-07T00:00:00.000Z"
+      }
+    }
+  ],
+  "product_variant": "red, size M"
+}]
